@@ -1,2 +1,3 @@
 # hello-world
-Prova de projecte
+
+Hi! Just trying to understand this world...
